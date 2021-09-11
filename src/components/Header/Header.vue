@@ -7,7 +7,7 @@
 <script lang="ts">
 import { defineComponent } from 'vue';
 import { styles }from './Header.css';
-import { variant } from '../../styles/base.css';
+import { variant } from '../../styles/variables.css';
 
 export default defineComponent({
   setup() {
