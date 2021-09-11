@@ -1,0 +1,18 @@
+{
+  "name": "vue-vanilla-extract-sampple",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vanilla-extract/css": "^1.5.0",
+    "@vanilla-extract/vite-plugin": "^2.0.2",
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.2",
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^2.5.6"
+  }
+}
